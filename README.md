@@ -17,7 +17,7 @@ The encoder in ResNet ScasNet is finetuned by [ResNet_variant_caffemodel](https:
 The Caffe Framework we used to train VGG ScasNet is released on [DeepLab_v2](https://bitbucket.org/aquariusjay/deeplab-public-ver2).   
 
 The Caffe Framework we used to train ResNet	ScasNet is released on [PSPNet](https://github.com/hszhao/PSPNet).      
-###Installation
+### Installation
 Please follow the instructions of [Caffe](https://github.com/BVLC/caffe), [DeepLab_v2](https://bitbucket.org/aquariusjay/deeplab-public-ver2) and [PSPNet](https://github.com/hszhao/PSPNet).  
 
 The code has been tested successfully on Ubuntu 14.04 with CUDA 8.0.    
