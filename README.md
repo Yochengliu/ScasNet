@@ -16,7 +16,7 @@ The encoder in ResNet ScasNet is finetuned by [ResNet_variant_caffemodel](https:
 ## Caffe Framework
 The Caffe Framework we used to train VGG ScasNet is released on [DeepLab_v2](https://bitbucket.org/aquariusjay/deeplab-public-ver2).   
 
-The Caffe Framework we used to train ResNet	ScasNet is released on [PSPNet](https://github.com/hszhao/PSPNet). 
+The Caffe Framework we used to train ResNet	ScasNet is released on [PSPNet](https://github.com/hszhao/PSPNet).      
 ###Installation
 Please follow the instructions of [Caffe](https://github.com/BVLC/caffe), [DeepLab_v2](https://bitbucket.org/aquariusjay/deeplab-public-ver2) and [PSPNet](https://github.com/hszhao/PSPNet).  
 
@@ -30,7 +30,7 @@ Chen, L., Papandreou, G., Kokkinos, I., Murphy, K., Yuille, A. L., 2015. Semanti
 Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J., 2016. Pyramid scene parsing network. arXiv preprint arXiv:1612.01105.
 
 ## Citation
-We would be very glad if ScasNet is helpful for your research, and please cite our paper:
+We would be very glad if ScasNet is helpful for your research, and please consider cite our paper:
 
 ## Contact
 We would be very glad if you have some ideas or questions about ScasNet to share with us, please contact <yongcheng.liu@nlpr.ia.ac.cn>.
