@@ -9,7 +9,7 @@ The encoder is based on VGG-Net variant (Chen et al., 2015), which is to obtain 
 The configuration of ResNet ScasNet is almost the same as VGG ScasNet, except for four aspects: the encoder is based on ResNet variant (Zhao et al., 2016), four shallow layers are used for refinement, seven residual correction schemes are designed for feature fusions and BN layer is used.  
 
 ## Finetuned Models
----For initializing the encoder part in ScasNet    
+###For initializing the encoder part in ScasNet    
 The encoder in VGG ScasNet is finetuned by [VGG-Net_variant_caffemodel](http://liangchiehchen.com/projects/DeepLabv2_vgg.html)   
 The encoder in ResNet ScasNet is finetuned by [ResNet_variant_caffemodel](https://drive.google.com/open?id=0BzaU285cX7TCNVhETE5vVUdMYk0)  
 
@@ -33,4 +33,4 @@ Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J., 2016. Pyramid scene parsing networ
 We would be very glad if ScasNet is helpful for your research, and please consider cite our paper:
 
 ## Contact
-We would be very glad if you have some ideas or questions about ScasNet to share with us, please contact <yongcheng.liu@nlpr.ia.ac.cn>.
+We would be very glad if you have some ideas or questions about ScasNet to share with us, please contact <yongcheng.liu@nlpr.ia.ac.cn>
