@@ -1,4 +1,4 @@
-Semantic Labeling in VHR Images via A ScasNet
+Semantic Labeling in VHR Images via A Self-Cascaded CNN (ScasNet)
 ===
 by Yongcheng Liu, Bin Fan, Lingfeng Wang, Shiming Xiang, Chunhong Pan.  
 
