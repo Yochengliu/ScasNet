@@ -47,4 +47,4 @@ We would be very glad if ScasNet is helpful for your research, and please consid
     }   
 
 ## Contact
-We would be very glad if you have some ideas or questions about ScasNet to share with us, please contact <yongcheng.liu@nlpr.ia.ac.cn>.
+We would be very glad if you have some ideas or questions about ScasNet to share with us, please contact <yongcheng.liu@nlpr.ia.ac.cn>
