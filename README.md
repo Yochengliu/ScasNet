@@ -1,6 +1,6 @@
-Semantic Labeling in VHR Images via A Self-Cascaded CNN (ScasNet)
+Semantic Labeling in VHR Images via A ScasNet
 ===
-by Yongcheng Liu, Bin Fan, Lingfeng Wang, Shiming Xiang and Chunhong Pan.  
+by Yongcheng Liu, Bin Fan, Lingfeng Wang, Shiming Xiang, Chunhong Pan.  
 
 ## VGG ScasNet
 The encoder is based on VGG-Net variant (Chen et al., 2015), which is to obtain finer feature maps (about 1/8 of input size rather than 1/32). On the last layer of encoder, multi-scale contexts are captured by dilated convolutional operations with dilation rates of 24, 18, 12, 6. As a trade-off, we only choose three shallow layers for refinement. Moreover, BN layer is not used in VGG ScasNet.    
@@ -8,8 +8,8 @@ The encoder is based on VGG-Net variant (Chen et al., 2015), which is to obtain 
 ## ResNet ScasNet
 The configuration of ResNet ScasNet is almost the same as VGG ScasNet, except for four aspects: the encoder is based on ResNet variant (Zhao et al., 2016), four shallow layers are used for refinement, seven residual correction schemes are designed for feature fusions and BN layer is used.  
 
-## Finetuned Models   
-### For initializing the encoder part in ScasNet    
+## Finetuned Models
+---For initializing the encoder part in ScasNet    
 The encoder in VGG ScasNet is finetuned by [VGG-Net_variant_caffemodel](http://liangchiehchen.com/projects/DeepLabv2_vgg.html)   
 The encoder in ResNet ScasNet is finetuned by [ResNet_variant_caffemodel](https://drive.google.com/open?id=0BzaU285cX7TCNVhETE5vVUdMYk0)  
 
@@ -30,7 +30,15 @@ Chen, L., Papandreou, G., Kokkinos, I., Murphy, K., Yuille, A. L., 2015. Semanti
 Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J., 2016. Pyramid scene parsing network. arXiv preprint arXiv:1612.01105.
 
 ## Citation
-We would be very glad if ScasNet is helpful for your research, and please consider cite our paper:
+We would be very glad if ScasNet is helpful for your research, and please consider cite our paper:   
+@article{liu_scasnet,
+  title={Semantic labeling in very high resolution images via a self-cascaded convolutional neural network},
+  author={Liu, Yongcheng and Fan, Bin and Wang, Lingfeng and Bai, Jun and Xiang, Shiming and Pan, Chunhong},
+  journal={ISPRS J. Photogram. and Remote Sensing.},
+  volume={pp},
+  pages={1--18},
+  year={2017}
+}
 
 ## Contact
-We would be very glad if you have some ideas or questions about ScasNet to share with us, please contact <yongcheng.liu@nlpr.ia.ac.cn>
+We would be very glad if you have some ideas or questions about ScasNet to share with us, please contact <yongcheng.liu@nlpr.ia.ac.cn>.
