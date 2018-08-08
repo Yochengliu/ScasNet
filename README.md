@@ -30,15 +30,21 @@ Chen, L., Papandreou, G., Kokkinos, I., Murphy, K., Yuille, A. L., 2015. Semanti
 Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J., 2016. Pyramid scene parsing network. arXiv preprint arXiv:1612.01105.
 
 ## Citation
-We would be very glad if ScasNet is helpful for your research, and please consider cite our paper:   
-@article{liu_scasnet,  
-　title={Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network},  
-　author={Liu, Yongcheng and Fan, Bin and Wang, Lingfeng and Bai, Jun and Xiang, Shiming and Pan, Chunhong},  
-　journal={ISPRS J. Photogram. and Remote Sensing.},  
-　volume={pp},  
-　pages={1--18},  
-　year={2017}  
-}  
+We would be very glad if ScasNet is helpful for your research, and please consider citing our paper:   
+
+    @article{liu2017scasnet,   
+      author = {Yongcheng Liu and    
+                Bin Fan and    
+                Lingfeng Wang and   
+                Jun Bai and   
+                Shiming Xiang and   
+                Chunhong Pan},   
+      title = {Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network},   
+      journal={ISPRS J. Photogram. and Remote Sensing.},   
+      volume={pp},  
+      pages={1--18},  
+      year = {2017}   
+    }   
 
 ## Contact
 We would be very glad if you have some ideas or questions about ScasNet to share with us, please contact <yongcheng.liu@nlpr.ia.ac.cn>.
