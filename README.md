@@ -32,12 +32,12 @@ Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J., 2016. Pyramid scene parsing networ
 ## Citation
 We would be very glad if ScasNet is helpful for your research, and please consider cite our paper:   
 @article{liu_scasnet,  
-  title={Semantic labeling in very high resolution images via a self-cascaded convolutional neural network},  
-  author={Liu, Yongcheng and Fan, Bin and Wang, Lingfeng and Bai, Jun and Xiang, Shiming and Pan, Chunhong},  
-  journal={ISPRS J. Photogram. and Remote Sensing.},  
-  volume={pp},  
-  pages={1--18},  
-  year={2017}  
+　title={Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network},  
+　author={Liu, Yongcheng and Fan, Bin and Wang, Lingfeng and Bai, Jun and Xiang, Shiming and Pan, Chunhong},  
+　journal={ISPRS J. Photogram. and Remote Sensing.},  
+　volume={pp},  
+　pages={1--18},  
+　year={2017}  
 }  
 
 ## Contact
