@@ -24,10 +24,10 @@ The code has been tested successfully on Ubuntu 14.04 with CUDA 8.0.
 
 ## References
 
-Chen, L., Papandreou, G., Kokkinos, I., Murphy, K., Yuille, A. L., 2015. Semantic image segmentation with deep convolutional nets and fully connected crfs. In: International Conference on Learning Representations.
+1. Chen, L., Papandreou, G., Kokkinos, I., Murphy, K., Yuille, A. L., 2015. Semantic image segmentation with deep convolutional nets and fully connected crfs. In: International Conference on Learning Representations.
      
      
-Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J., 2016. Pyramid scene parsing network. arXiv preprint arXiv:1612.01105.
+2. Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J., 2016. Pyramid scene parsing network. arXiv preprint arXiv:1612.01105.
 
 ## Citation
 We would be very glad if ScasNet is helpful for your research, and please consider citing our paper:   
@@ -40,9 +40,9 @@ We would be very glad if ScasNet is helpful for your research, and please consid
                 Shiming Xiang and   
                 Chunhong Pan},   
       title = {Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network},   
-      journal={ISPRS J. Photogram. and Remote Sensing.},   
-      volume={pp},  
-      pages={1--18},  
+      journal = {ISPRS J. Photogram. and Remote Sensing.},   
+      volume = {pp},  
+      pages = {1--18},  
       year = {2017}   
     }   
 
