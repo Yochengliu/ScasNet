@@ -2,6 +2,8 @@ Semantic Labeling in VHR Images via A Self-Cascaded CNN (ScasNet)
 ===
 by Yongcheng Liu, Bin Fan, Lingfeng Wang, Shiming Xiang and Chunhong Pan.  
 
+![](https://github.com/Yochengliu/ScasNet/raw/master/images/vai.jpg)
+
 ## VGG ScasNet
 The encoder is based on VGG-Net variant (Chen et al., 2015), which is to obtain finer feature maps (about 1/8 of input size rather than 1/32). On the last layer of encoder, multi-scale contexts are captured by dilated convolutional operations with dilation rates of 24, 18, 12, 6. As a trade-off, we only choose three shallow layers for refinement. Moreover, BN layer is not used in VGG ScasNet.    
 
