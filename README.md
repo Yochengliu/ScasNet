@@ -29,7 +29,7 @@ The code has been tested successfully on Ubuntu 14.04 with CUDA 8.0.
 2. Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J., 2016. Pyramid scene parsing network. arXiv preprint arXiv:1612.01105.
 
 ## Citation
-We would be very glad if ScasNet is helpful for your research, and please consider citing our paper ([ArXiv](https://arxiv.org/abs/1807.11236)):   
+We would be very glad if ScasNet is helpful for your research, and please consider citing our paper ([arXiv](https://arxiv.org/abs/1807.11236)):   
 
     @article{liu2017scasnet,   
       author = {Yongcheng Liu and    
