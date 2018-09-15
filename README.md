@@ -2,7 +2,8 @@ Semantic Labeling in VHR Images via A Self-Cascaded CNN (ScasNet)
 ===
 by Yongcheng Liu, Bin Fan*, Lingfeng Wang, Shiming Xiang and Chunhong Pan.  
 
-![](https://github.com/Yochengliu/ScasNet/raw/master/images/vai.jpg)
+[vai]: ./images/vai.jpg
+![vai]
 
 ## ScasNet
 #### VGG ScasNet
@@ -28,7 +29,7 @@ The code has been tested successfully on Ubuntu 14.04 with CUDA 8.0.
 2. Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J., 2016. Pyramid scene parsing network. arXiv preprint arXiv:1612.01105.
 
 ## Citation
-We would be very glad if ScasNet is helpful for your research, and please consider citing our paper:   
+We would be very glad if ScasNet is helpful for your research, and please consider citing our paper [ArXiv](https://arxiv.org/abs/1807.11236):   
 
     @article{liu2017scasnet,   
       author = {Yongcheng Liu and    
