@@ -50,7 +50,7 @@ The code has been tested successfully on Ubuntu 14.04 with CUDA 8.0.
 
 We would be very glad if ScasNet is helpful for your research, and please consider citing our paper ([arXiv](https://arxiv.org/abs/1807.11236)):   
 
-        @article{liu2017scasnet,   
+        @article{liu2018scasnet,   
           author = {Yongcheng Liu and    
                     Bin Fan and    
                     Lingfeng Wang and   
@@ -59,9 +59,9 @@ We would be very glad if ScasNet is helpful for your research, and please consid
                     Chunhong Pan},   
           title = {Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network},   
           journal = {ISPRS J. Photogram. and Remote Sensing.},   
-          volume = {pp},  
-          pages = {1--18},  
-          year = {2017}   
+          volume = {145},  
+          pages = {78--95},  
+          year = {2018}   
         }   
 
 ## Contact
