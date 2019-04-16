@@ -1,6 +1,6 @@
 Semantic Labeling in VHR Images via A Self-Cascaded CNN (ScasNet)
 ===
-by Yongcheng Liu, Bin Fan*, Lingfeng Wang, Shiming Xiang and Chunhong Pan.  
+by [Yongcheng Liu](https://yochengliu.github.io/), [Bin Fan*](http://www.nlpr.ia.ac.cn/fanbin/), [Lingfeng Wang](https://scholar.google.com/citations?user=PaRak2AAAAAJ&hl=en), [Jun Bai](https://www.researchgate.net/profile/Jun_Bai), [Shiming Xiang](https://scholar.google.com/citations?user=0ggsACEAAAAJ&hl=zh-CN), [Chunhong Pan](https://www.researchgate.net/lab/Chunhong-Pan-Lab).  
 
 [vai]: ./images/vai.jpg
 ![vai]
